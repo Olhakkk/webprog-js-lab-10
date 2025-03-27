@@ -1,0 +1,16 @@
+{
+    "name": "webprog-js-lab-10",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "dev": "vite",
+      "start": "lite-server"
+    },
+    "dependencies": {},
+    "devDependencies": {
+      "vite": "^5.0.0",
+      "lite-server": "^2.6.1"
+    }
+  }
+  
